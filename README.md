@@ -1,4 +1,4 @@
-# Java-Projects
+# library Management System
 
 A library management system is a software application that helps librarians and users to manage, maintain, and monitor the library resources. A library management system typically has the following features:
 
